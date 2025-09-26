@@ -34,7 +34,7 @@ go clean
 ```
 
 ```
-go get packege
+go get package
 ```
 パッケージをインストールする
-go get pakege名
+go get package名
